@@ -1,0 +1,1128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="34b99f80-17d7-4d4a-ae44-3cfe0448ada1" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/importTest$ttuple.coverage" NAME="ttuple Coverage Results" MODIFIED="1536840641061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/importTest$file.coverage" NAME="file Coverage Results" MODIFIED="1537438504135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/importTest$claa.coverage" NAME="claa Coverage Results" MODIFIED="1537875595284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/importTest$p06_optarg_decorator.coverage" NAME="p06_optarg_decorator Coverage Results" MODIFIED="1538708656515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yuanbianceng" />
+    <SUITE FILE_PATH="coverage/importTest$socketTest.coverage" NAME="socketTest Coverage Results" MODIFIED="1538792317687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/sun/network" />
+    <SUITE FILE_PATH="coverage/importTest$testCombine.coverage" NAME="testCombine Coverage Results" MODIFIED="1538722819005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/sun/test1" />
+    <SUITE FILE_PATH="coverage/importTest$number.coverage" NAME="number Coverage Results" MODIFIED="1536998259349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/importTest$test.coverage" NAME="test Coverage Results" MODIFIED="1538709472983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yuanbianceng" />
+    <SUITE FILE_PATH="coverage/importTest$main.coverage" NAME="main Coverage Results" MODIFIED="1536570223781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/importTest$pythonSystem.coverage" NAME="pythonSystem Coverage Results" MODIFIED="1536723804910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/importTest$fib.coverage" NAME="fib Coverage Results" MODIFIED="1537177093191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/importTest$hello.coverage" NAME="hello Coverage Results" MODIFIED="1538720567156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/packageAndModel" />
+    <SUITE FILE_PATH="coverage/importTest$server.coverage" NAME="server Coverage Results" MODIFIED="1538793395351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/sun/network" />
+    <SUITE FILE_PATH="coverage/importTest$iter.coverage" NAME="iter Coverage Results" MODIFIED="1537441787349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/importTest$string.coverage" NAME="string Coverage Results" MODIFIED="1536982270431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/importTest$classTes.coverage" NAME="classTes Coverage Results" MODIFIED="1537874709023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/importTest$exception.coverage" NAME="exception Coverage Results" MODIFIED="1536718785290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/importTest$testxpath.coverage" NAME="testxpath Coverage Results" MODIFIED="1538896687533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/sun/network" />
+    <SUITE FILE_PATH="coverage/importTest$bakfile.coverage" NAME="bakfile Coverage Results" MODIFIED="1536483435887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/importTest$spark.coverage" NAME="spark Coverage Results" MODIFIED="1538896692635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/sun/network" />
+    <SUITE FILE_PATH="coverage/importTest$simpleModel.coverage" NAME="simpleModel Coverage Results" MODIFIED="1538723763890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/sun/network" />
+    <SUITE FILE_PATH="coverage/importTest$classmethod.coverage" NAME="classmethod Coverage Results" MODIFIED="1538640252076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/importTest$classDecorator.coverage" NAME="classDecorator Coverage Results" MODIFIED="1538710938665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yuanbianceng" />
+    <SUITE FILE_PATH="coverage/importTest$baozhuangqi.coverage" NAME="baozhuangqi Coverage Results" MODIFIED="1538652592156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/importTest$importTest.coverage" NAME="importTest Coverage Results" MODIFIED="1536480091155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/importTest$School.coverage" NAME="School Coverage Results" MODIFIED="1537692265403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/importTest$line.coverage" NAME="line Coverage Results" MODIFIED="1538721147789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/sun/test" />
+    <SUITE FILE_PATH="coverage/importTest$function.coverage" NAME="function Coverage Results" MODIFIED="1538709814479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1061590542">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="11" />
+          <entry key="project.open.time.10" value="3" />
+          <entry key="project.open.time.11" value="5" />
+          <entry key="project.open.time.12" value="6" />
+          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="5" />
+          <entry key="project.opened" value="24" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="2" />
+          <entry key="jpg" value="5" />
+          <entry key="pstat" value="1" />
+          <entry key="py" value="92" />
+          <entry key="pyi" value="7" />
+          <entry key="txt" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="2" />
+          <entry key="Image" value="5" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Profiler Session" value="1" />
+          <entry key="Python" value="92" />
+          <entry key="PythonStub" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="21" />
+          <entry key="py" value="16002" />
+          <entry key="txt" value="156" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="177" />
+          <entry key="Python" value="16002" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/sun/network/simpleModel.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/sun/network/socketTest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="532">
+              <caret line="28" column="11" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/com/sun/network/spark.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="10" column="42" lean-forward="true" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+              <folding>
+                <element signature="e#0#33#0" expanded="true" />
+                <marker date="1538808742615" expanded="true" signature="345:427" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/sun/network/testxpath.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-328">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#22#0" expanded="true" />
+                <marker date="1538896273769" expanded="true" signature="190:292" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-596928832/lxml/etree/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7676">
+              <caret line="404" column="30" selection-start-line="404" selection-start-column="30" selection-end-line="404" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://C:/Program Files (x86)/python/Lib/urllib/request.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3743">
+              <caret line="221" column="20" selection-start-line="221" selection-start-column="20" selection-end-line="221" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/sun/network/thieba.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="30" column="46" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
+              <folding>
+                <element signature="e#23436#23497#0" expanded="true" />
+                <element signature="e#23556#23577#0" expanded="true" />
+                <element signature="e#24040#24061#0" expanded="true" />
+                <element signature="e#24085#24106#0" expanded="true" />
+                <element signature="e#24423#24443#0" expanded="true" />
+                <element signature="e#24712#24718#1" expanded="true" />
+                <element signature="e#24779#24785#1" expanded="true" />
+                <element signature="e#24841#24847#1" expanded="true" />
+                <element signature="e#25135#25141#1" expanded="true" />
+                <element signature="e#25164#25170#1" expanded="true" />
+                <element signature="e#25193#25199#1" expanded="true" />
+                <element signature="e#25222#25228#1" expanded="true" />
+                <element signature="e#25251#25257#1" expanded="true" />
+                <element signature="e#25280#25286#1" expanded="true" />
+                <element signature="e#25309#25315#1" expanded="true" />
+                <element signature="e#25347#25353#1" expanded="true" />
+                <element signature="e#25376#25382#1" expanded="true" />
+                <element signature="e#25405#25411#1" expanded="true" />
+                <element signature="e#25434#25440#1" expanded="true" />
+                <element signature="e#25463#25469#1" expanded="true" />
+                <element signature="e#25492#25498#1" expanded="true" />
+                <element signature="e#25521#25527#1" expanded="true" />
+                <element signature="e#25559#25565#1" expanded="true" />
+                <element signature="e#25588#25594#1" expanded="true" />
+                <element signature="e#25617#25623#1" expanded="true" />
+                <element signature="e#25646#25652#1" expanded="true" />
+                <element signature="e#25675#25681#1" expanded="true" />
+                <element signature="e#25704#25710#1" expanded="true" />
+                <element signature="e#25733#25739#1" expanded="true" />
+                <element signature="e#25771#25777#1" expanded="true" />
+                <element signature="e#25800#25806#1" expanded="true" />
+                <element signature="e#25829#25835#1" expanded="true" />
+                <element signature="e#25858#25864#1" expanded="true" />
+                <element signature="e#25887#25893#1" expanded="true" />
+                <element signature="e#25916#25922#1" expanded="true" />
+                <element signature="e#25945#25951#1" expanded="true" />
+                <element signature="e#25977#25997#0" expanded="true" />
+                <element signature="e#26016#26022#1" expanded="true" />
+                <element signature="e#26045#26051#1" expanded="true" />
+                <element signature="e#26074#26080#1" expanded="true" />
+                <element signature="e#26103#26109#1" expanded="true" />
+                <element signature="e#26132#26138#1" expanded="true" />
+                <element signature="e#26161#26167#1" expanded="true" />
+                <element signature="e#26190#26196#1" expanded="true" />
+                <element signature="e#26222#26242#0" expanded="true" />
+                <element signature="e#26261#26267#1" expanded="true" />
+                <element signature="e#26290#26296#1" expanded="true" />
+                <element signature="e#26319#26325#1" expanded="true" />
+                <element signature="e#26348#26354#1" expanded="true" />
+                <element signature="e#26377#26383#1" expanded="true" />
+                <element signature="e#26406#26412#1" expanded="true" />
+                <element signature="e#26435#26441#1" expanded="true" />
+                <element signature="e#28366#28387#0" expanded="true" />
+                <element signature="e#28542#28559#0" expanded="true" />
+                <element signature="e#28758#28764#0" expanded="true" />
+                <element signature="e#28764#28770#0" expanded="true" />
+                <element signature="e#32498#32521#0" expanded="true" />
+                <element signature="e#32541#32565#0" expanded="true" />
+                <element signature="e#32776#32797#0" expanded="true" />
+                <element signature="e#33124#33144#0" expanded="true" />
+                <element signature="e#36579#36601#0" expanded="true" />
+                <element signature="e#37202#37242#0" expanded="true" />
+                <element signature="e#37987#38009#0" expanded="true" />
+                <element signature="e#39068#39089#0" expanded="true" />
+                <element signature="e#40008#40031#0" expanded="true" />
+                <element signature="e#42147#42169#0" expanded="true" />
+                <element signature="e#42931#42953#0" expanded="true" />
+                <element signature="e#43276#43297#0" expanded="true" />
+                <element signature="e#43336#43352#0" expanded="true" />
+                <element signature="e#43799#43820#0" expanded="true" />
+                <element signature="e#44739#44763#0" expanded="true" />
+                <element signature="e#46941#46963#0" expanded="true" />
+                <element signature="e#47724#47746#0" expanded="true" />
+                <element signature="e#48003#48024#0" expanded="true" />
+                <element signature="e#48062#48078#0" expanded="true" />
+                <element signature="e#48525#48546#0" expanded="true" />
+                <element signature="e#49465#49489#0" expanded="true" />
+                <element signature="e#52003#52127#0" expanded="true" />
+                <element signature="e#52916#52942#0" expanded="true" />
+                <element signature="e#53068#53090#0" expanded="true" />
+                <element signature="e#53854#53876#0" expanded="true" />
+                <element signature="e#54136#54153#0" expanded="true" />
+                <element signature="e#54188#54208#0" expanded="true" />
+                <element signature="e#54655#54676#0" expanded="true" />
+                <element signature="e#55596#55619#0" expanded="true" />
+                <element signature="e#57649#57679#0" expanded="true" />
+                <element signature="e#57927#57949#0" expanded="true" />
+                <element signature="e#58709#58731#0" expanded="true" />
+                <element signature="e#58991#59008#0" expanded="true" />
+                <element signature="e#59043#59063#0" expanded="true" />
+                <element signature="e#59510#59531#0" expanded="true" />
+                <element signature="e#60467#60490#0" expanded="true" />
+                <element signature="e#62617#62742#0" expanded="true" />
+                <element signature="e#63515#63541#0" expanded="true" />
+                <element signature="e#63667#63689#0" expanded="true" />
+                <element signature="e#64583#64605#0" expanded="true" />
+                <element signature="e#64865#64882#0" expanded="true" />
+                <element signature="e#64917#64937#0" expanded="true" />
+                <element signature="e#65384#65405#0" expanded="true" />
+                <element signature="e#66159#66182#0" expanded="true" />
+                <element signature="e#68261#68283#0" expanded="true" />
+                <element signature="e#69228#69250#0" expanded="true" />
+                <element signature="e#69510#69527#0" expanded="true" />
+                <element signature="e#69562#69582#0" expanded="true" />
+                <element signature="e#70029#70050#0" expanded="true" />
+                <element signature="e#70974#70997#0" expanded="true" />
+                <element signature="e#73049#73071#0" expanded="true" />
+                <element signature="e#74001#74023#0" expanded="true" />
+                <element signature="e#74283#74300#0" expanded="true" />
+                <element signature="e#74335#74355#0" expanded="true" />
+                <element signature="e#74802#74823#0" expanded="true" />
+                <element signature="e#75747#75770#0" expanded="true" />
+                <element signature="e#75901#75922#0" expanded="true" />
+                <element signature="e#80427#80450#0" expanded="true" />
+                <element signature="e#80470#80494#0" expanded="true" />
+                <element signature="e#81835#81841#0" expanded="true" />
+                <element signature="e#81841#81847#0" expanded="true" />
+                <element signature="e#81912#81948#0" expanded="true" />
+                <element signature="e#82140#82146#1" expanded="true" />
+                <element signature="e#82248#82254#1" expanded="true" />
+                <element signature="e#82257#82278#0" expanded="true" />
+                <element signature="e#82870#82892#0" expanded="true" />
+                <element signature="e#83325#83331#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-596928832/_multibytecodec.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1273">
+              <caret line="67" column="12" selection-start-line="67" selection-start-column="12" selection-end-line="67" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>join</find>
+      <find>isinstance</find>
+      <find>heap</find>
+      <find>from</find>
+      <find>ip</find>
+      <find>img class</find>
+      <find>tb2.bdstatic.com/</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/importTest.py" />
+        <option value="$USER_HOME$/.PyCharm2018.2/system/python_stubs/-596928832/builtins.py" />
+        <option value="$PROJECT_DIR$/bakfile.py" />
+        <option value="$PROJECT_DIR$/exception.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/pythonSystem.py" />
+        <option value="$PROJECT_DIR$/ttuple.py" />
+        <option value="$PROJECT_DIR$/string.py" />
+        <option value="$PROJECT_DIR$/number.py" />
+        <option value="$PROJECT_DIR$/fib.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/sun.txt" />
+        <option value="$PROJECT_DIR$/file.py" />
+        <option value="$PROJECT_DIR$/iter.py" />
+        <option value="$PROJECT_DIR$/School.py" />
+        <option value="$PROJECT_DIR$/function.py" />
+        <option value="$PROJECT_DIR$/classmethod.py" />
+        <option value="$PROJECT_DIR$/classTes.py" />
+        <option value="$PROJECT_DIR$/包装器.py" />
+        <option value="$PROJECT_DIR$/baozhuangqi.py" />
+        <option value="$PROJECT_DIR$/yuanbianceng/p06_optarg_decorator.py" />
+        <option value="$PROJECT_DIR$/yuanbianceng/typeassert.py" />
+        <option value="$PROJECT_DIR$/yuanbianceng/test.py" />
+        <option value="$PROJECT_DIR$/yuanbianceng/classDecorator.py" />
+        <option value="$PROJECT_DIR$/packageAndModel/hello.py" />
+        <option value="$PROJECT_DIR$/com/sun/test/line.py" />
+        <option value="$PROJECT_DIR$/com/sun/test/packageTest.py" />
+        <option value="$PROJECT_DIR$/com/sun/test/__init__.py" />
+        <option value="$PROJECT_DIR$/com/sun/test1/testCombine.py" />
+        <option value="$PROJECT_DIR$/com/sun/test/b.py" />
+        <option value="$PROJECT_DIR$/com/sun/test/a.py" />
+        <option value="$PROJECT_DIR$/com/__init__.py" />
+        <option value="$PROJECT_DIR$/com/sun/network/simpleModel.py" />
+        <option value="$PROJECT_DIR$/com/sun/network/socketTest.py" />
+        <option value="$PROJECT_DIR$/com/sun/network/server.py" />
+        <option value="$PROJECT_DIR$/claa.py" />
+        <option value="$PROJECT_DIR$/com/sun/network/thieba.html" />
+        <option value="$PROJECT_DIR$/com/sun/network/spark.py" />
+        <option value="$PROJECT_DIR$/com/sun/network/testxpath.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="934" />
+    <option name="y" value="111" />
+    <option name="width" value="981" />
+    <option name="height" value="1032" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Internationalization</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="importTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="importTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="importTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="importTest" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="importTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="importTest" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="sun" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="importTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="importTest" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="sun" type="462c0819:PsiDirectoryNode" />
+              <item name="network" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Program Files/JetBrains/PyCharm 2018.2.3/helpers/typeshed/stdlib/3/typing.pyi" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.spark">
+    <configuration name="server" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="importTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/sun/network" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/sun/network/server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="simpleModel" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="importTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/sun/network" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/sun/network/simpleModel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="socketTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="importTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/sun/network" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/sun/network/socketTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="spark" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="importTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/sun/network" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/sun/network/spark.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testxpath" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="importTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/sun/network" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/sun/network/testxpath.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.simpleModel" />
+      <item itemvalue="Python.socketTest" />
+      <item itemvalue="Python.server" />
+      <item itemvalue="Python.spark" />
+      <item itemvalue="Python.testxpath" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.spark" />
+        <item itemvalue="Python.testxpath" />
+        <item itemvalue="Python.server" />
+        <item itemvalue="Python.socketTest" />
+        <item itemvalue="Python.simpleModel" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\kexia\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34b99f80-17d7-4d4a-ae44-3cfe0448ada1" name="Default Changelist" comment="" />
+      <created>1536479474697</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536479474697</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48285714" visible="true" weight="0.14955537" />
+      <window_info id="Structure" order="1" sideWeight="0.51714283" side_tool="true" weight="0.30800325" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4987874" visible="true" weight="0.38898757" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39964476" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3285968" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5012126" side_tool="true" weight="0.37833038" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.25932506" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3285968" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="R Graphics" order="4" />
+      <window_info anchor="right" id="R Packages" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Coverage" order="7" side_tool="true" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/yuanbianceng/p06_optarg_decorator.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/iter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/types.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classTes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exception.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="41" lean-forward="true" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classmethod.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baozhuangqi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="31" column="20" lean-forward="true" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/python/Lib/functools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1197">
+          <caret line="67" column="34" selection-start-line="67" selection-start-column="34" selection-end-line="67" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SSstring.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/python/Lib/logging/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="88" selection-start-line="88" selection-end-line="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/functools.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yuanbianceng/p06_optarg_decorator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-137">
+          <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+          <folding>
+            <element signature="e#81#117#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yuanbianceng/typeassert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yuanbianceng/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="51" column="24" lean-forward="true" selection-start-line="51" selection-start-column="24" selection-end-line="51" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1824">
+          <caret line="96" column="20" selection-start-line="96" selection-start-column="20" selection-end-line="96" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/School.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="89" column="14" lean-forward="true" selection-start-line="89" selection-start-column="14" selection-end-line="89" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yuanbianceng/classDecorator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonSystem.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1111test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1349">
+          <caret line="71" column="21" lean-forward="true" selection-start-line="71" selection-start-column="21" selection-end-line="71" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packageAndModel/hello.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/importTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/sun/test/packageTest.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/sun/test/a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/sun/test/b.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/sun/test/line.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/sun/test/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/python/Lib/pkgutil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11153">
+          <caret line="596" column="4" selection-start-line="596" selection-start-column="4" selection-end-line="596" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-596928832/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="2343" column="19" lean-forward="true" selection-start-line="2343" selection-start-column="19" selection-end-line="2343" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/python/Lib/socket.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="204" column="8" selection-start-line="204" selection-start-column="8" selection-end-line="204" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/sun/network/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/sun/test1/testCombine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/claa.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="83" lean-forward="true" selection-end-line="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/sun/network/baidu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-43">
+          <caret line="6" column="36" lean-forward="true" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/typing.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="515" column="8" selection-start-line="515" selection-start-column="8" selection-end-line="515" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/sun/network/img/5.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/sun/network/img/4.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/sun/network/img/3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/sun/network/img/2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/sun/network/img/1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/sun/network/simpleModel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/sun/network/socketTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="11" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-596928832/lxml/etree/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7676">
+          <caret line="404" column="30" selection-start-line="404" selection-start-column="30" selection-end-line="404" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/python/Lib/urllib/request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3743">
+          <caret line="221" column="20" selection-start-line="221" selection-start-column="20" selection-end-line="221" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/sun/network/thieba.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" column="46" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
+          <folding>
+            <element signature="e#23436#23497#0" expanded="true" />
+            <element signature="e#23556#23577#0" expanded="true" />
+            <element signature="e#24040#24061#0" expanded="true" />
+            <element signature="e#24085#24106#0" expanded="true" />
+            <element signature="e#24423#24443#0" expanded="true" />
+            <element signature="e#24712#24718#1" expanded="true" />
+            <element signature="e#24779#24785#1" expanded="true" />
+            <element signature="e#24841#24847#1" expanded="true" />
+            <element signature="e#25135#25141#1" expanded="true" />
+            <element signature="e#25164#25170#1" expanded="true" />
+            <element signature="e#25193#25199#1" expanded="true" />
+            <element signature="e#25222#25228#1" expanded="true" />
+            <element signature="e#25251#25257#1" expanded="true" />
+            <element signature="e#25280#25286#1" expanded="true" />
+            <element signature="e#25309#25315#1" expanded="true" />
+            <element signature="e#25347#25353#1" expanded="true" />
+            <element signature="e#25376#25382#1" expanded="true" />
+            <element signature="e#25405#25411#1" expanded="true" />
+            <element signature="e#25434#25440#1" expanded="true" />
+            <element signature="e#25463#25469#1" expanded="true" />
+            <element signature="e#25492#25498#1" expanded="true" />
+            <element signature="e#25521#25527#1" expanded="true" />
+            <element signature="e#25559#25565#1" expanded="true" />
+            <element signature="e#25588#25594#1" expanded="true" />
+            <element signature="e#25617#25623#1" expanded="true" />
+            <element signature="e#25646#25652#1" expanded="true" />
+            <element signature="e#25675#25681#1" expanded="true" />
+            <element signature="e#25704#25710#1" expanded="true" />
+            <element signature="e#25733#25739#1" expanded="true" />
+            <element signature="e#25771#25777#1" expanded="true" />
+            <element signature="e#25800#25806#1" expanded="true" />
+            <element signature="e#25829#25835#1" expanded="true" />
+            <element signature="e#25858#25864#1" expanded="true" />
+            <element signature="e#25887#25893#1" expanded="true" />
+            <element signature="e#25916#25922#1" expanded="true" />
+            <element signature="e#25945#25951#1" expanded="true" />
+            <element signature="e#25977#25997#0" expanded="true" />
+            <element signature="e#26016#26022#1" expanded="true" />
+            <element signature="e#26045#26051#1" expanded="true" />
+            <element signature="e#26074#26080#1" expanded="true" />
+            <element signature="e#26103#26109#1" expanded="true" />
+            <element signature="e#26132#26138#1" expanded="true" />
+            <element signature="e#26161#26167#1" expanded="true" />
+            <element signature="e#26190#26196#1" expanded="true" />
+            <element signature="e#26222#26242#0" expanded="true" />
+            <element signature="e#26261#26267#1" expanded="true" />
+            <element signature="e#26290#26296#1" expanded="true" />
+            <element signature="e#26319#26325#1" expanded="true" />
+            <element signature="e#26348#26354#1" expanded="true" />
+            <element signature="e#26377#26383#1" expanded="true" />
+            <element signature="e#26406#26412#1" expanded="true" />
+            <element signature="e#26435#26441#1" expanded="true" />
+            <element signature="e#28366#28387#0" expanded="true" />
+            <element signature="e#28542#28559#0" expanded="true" />
+            <element signature="e#28758#28764#0" expanded="true" />
+            <element signature="e#28764#28770#0" expanded="true" />
+            <element signature="e#32498#32521#0" expanded="true" />
+            <element signature="e#32541#32565#0" expanded="true" />
+            <element signature="e#32776#32797#0" expanded="true" />
+            <element signature="e#33124#33144#0" expanded="true" />
+            <element signature="e#36579#36601#0" expanded="true" />
+            <element signature="e#37202#37242#0" expanded="true" />
+            <element signature="e#37987#38009#0" expanded="true" />
+            <element signature="e#39068#39089#0" expanded="true" />
+            <element signature="e#40008#40031#0" expanded="true" />
+            <element signature="e#42147#42169#0" expanded="true" />
+            <element signature="e#42931#42953#0" expanded="true" />
+            <element signature="e#43276#43297#0" expanded="true" />
+            <element signature="e#43336#43352#0" expanded="true" />
+            <element signature="e#43799#43820#0" expanded="true" />
+            <element signature="e#44739#44763#0" expanded="true" />
+            <element signature="e#46941#46963#0" expanded="true" />
+            <element signature="e#47724#47746#0" expanded="true" />
+            <element signature="e#48003#48024#0" expanded="true" />
+            <element signature="e#48062#48078#0" expanded="true" />
+            <element signature="e#48525#48546#0" expanded="true" />
+            <element signature="e#49465#49489#0" expanded="true" />
+            <element signature="e#52003#52127#0" expanded="true" />
+            <element signature="e#52916#52942#0" expanded="true" />
+            <element signature="e#53068#53090#0" expanded="true" />
+            <element signature="e#53854#53876#0" expanded="true" />
+            <element signature="e#54136#54153#0" expanded="true" />
+            <element signature="e#54188#54208#0" expanded="true" />
+            <element signature="e#54655#54676#0" expanded="true" />
+            <element signature="e#55596#55619#0" expanded="true" />
+            <element signature="e#57649#57679#0" expanded="true" />
+            <element signature="e#57927#57949#0" expanded="true" />
+            <element signature="e#58709#58731#0" expanded="true" />
+            <element signature="e#58991#59008#0" expanded="true" />
+            <element signature="e#59043#59063#0" expanded="true" />
+            <element signature="e#59510#59531#0" expanded="true" />
+            <element signature="e#60467#60490#0" expanded="true" />
+            <element signature="e#62617#62742#0" expanded="true" />
+            <element signature="e#63515#63541#0" expanded="true" />
+            <element signature="e#63667#63689#0" expanded="true" />
+            <element signature="e#64583#64605#0" expanded="true" />
+            <element signature="e#64865#64882#0" expanded="true" />
+            <element signature="e#64917#64937#0" expanded="true" />
+            <element signature="e#65384#65405#0" expanded="true" />
+            <element signature="e#66159#66182#0" expanded="true" />
+            <element signature="e#68261#68283#0" expanded="true" />
+            <element signature="e#69228#69250#0" expanded="true" />
+            <element signature="e#69510#69527#0" expanded="true" />
+            <element signature="e#69562#69582#0" expanded="true" />
+            <element signature="e#70029#70050#0" expanded="true" />
+            <element signature="e#70974#70997#0" expanded="true" />
+            <element signature="e#73049#73071#0" expanded="true" />
+            <element signature="e#74001#74023#0" expanded="true" />
+            <element signature="e#74283#74300#0" expanded="true" />
+            <element signature="e#74335#74355#0" expanded="true" />
+            <element signature="e#74802#74823#0" expanded="true" />
+            <element signature="e#75747#75770#0" expanded="true" />
+            <element signature="e#75901#75922#0" expanded="true" />
+            <element signature="e#80427#80450#0" expanded="true" />
+            <element signature="e#80470#80494#0" expanded="true" />
+            <element signature="e#81835#81841#0" expanded="true" />
+            <element signature="e#81841#81847#0" expanded="true" />
+            <element signature="e#81912#81948#0" expanded="true" />
+            <element signature="e#82140#82146#1" expanded="true" />
+            <element signature="e#82248#82254#1" expanded="true" />
+            <element signature="e#82257#82278#0" expanded="true" />
+            <element signature="e#82870#82892#0" expanded="true" />
+            <element signature="e#83325#83331#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-596928832/_multibytecodec.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1273">
+          <caret line="67" column="12" selection-start-line="67" selection-start-column="12" selection-end-line="67" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/sun/network/testxpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-328">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+            <marker date="1538896273769" expanded="true" signature="190:292" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/sun/network/spark.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="10" column="42" lean-forward="true" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+            <marker date="1538808742615" expanded="true" signature="345:427" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
