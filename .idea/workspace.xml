@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34b99f80-17d7-4d4a-ae44-3cfe0448ada1" name="Default Changelist" comment="" />
+    <list default="true" id="34b99f80-17d7-4d4a-ae44-3cfe0448ada1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/sun/network/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/sun/network/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/sun/network/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/sun/network/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/sun/network/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/sun/network/img/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/sun/network/img/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/sun/network/img/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/sun/network/img/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/sun/network/img/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/sun/network/img/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/sun/network/testxpath.py" beforeDir="false" afterPath="$PROJECT_DIR$/com/sun/network/testxpath.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,9 +42,9 @@
     <SUITE FILE_PATH="coverage/importTest$string.coverage" NAME="string Coverage Results" MODIFIED="1536982270431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/importTest$classTes.coverage" NAME="classTes Coverage Results" MODIFIED="1537874709023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/importTest$exception.coverage" NAME="exception Coverage Results" MODIFIED="1536718785290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/importTest$testxpath.coverage" NAME="testxpath Coverage Results" MODIFIED="1538896687533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/sun/network" />
+    <SUITE FILE_PATH="coverage/importTest$testxpath.coverage" NAME="testxpath Coverage Results" MODIFIED="1538966679460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/sun/network" />
     <SUITE FILE_PATH="coverage/importTest$bakfile.coverage" NAME="bakfile Coverage Results" MODIFIED="1536483435887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/importTest$spark.coverage" NAME="spark Coverage Results" MODIFIED="1538896692635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/sun/network" />
+    <SUITE FILE_PATH="coverage/importTest$spark.coverage" NAME="spark Coverage Results" MODIFIED="1538966215668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/sun/network" />
     <SUITE FILE_PATH="coverage/importTest$simpleModel.coverage" NAME="simpleModel Coverage Results" MODIFIED="1538723763890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/sun/network" />
     <SUITE FILE_PATH="coverage/importTest$classmethod.coverage" NAME="classmethod Coverage Results" MODIFIED="1538640252076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/importTest$classDecorator.coverage" NAME="classDecorator Coverage Results" MODIFIED="1538710938665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yuanbianceng" />
@@ -47,19 +63,20 @@
           <entry key="project.open.time.11" value="5" />
           <entry key="project.open.time.12" value="6" />
           <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="5" />
-          <entry key="project.opened" value="24" />
+          <entry key="project.opened" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="html" value="2" />
-          <entry key="jpg" value="5" />
+          <entry key="jpg" value="6" />
           <entry key="pstat" value="1" />
-          <entry key="py" value="92" />
+          <entry key="py" value="94" />
           <entry key="pyi" value="7" />
           <entry key="txt" value="3" />
         </counts>
@@ -67,24 +84,24 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="2" />
-          <entry key="Image" value="5" />
+          <entry key="Image" value="6" />
           <entry key="PLAIN_TEXT" value="3" />
           <entry key="Profiler Session" value="1" />
-          <entry key="Python" value="92" />
+          <entry key="Python" value="94" />
           <entry key="PythonStub" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="21" />
-          <entry key="py" value="16002" />
+          <entry key="py" value="16771" />
           <entry key="txt" value="156" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="177" />
-          <entry key="Python" value="16002" />
+          <entry key="Python" value="16771" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -94,45 +111,41 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/sun/network/simpleModel.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/com/sun/network/socketTest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
+            <state relative-caret-position="256">
               <caret line="28" column="11" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/com/sun/network/spark.py">
+        <entry file="file://$PROJECT_DIR$/com/sun/network/testxpath.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="10" column="42" lean-forward="true" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+            <state relative-caret-position="90">
+              <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
               <folding>
-                <element signature="e#0#33#0" expanded="true" />
-                <marker date="1538808742615" expanded="true" signature="345:427" ph="..." />
+                <element signature="e#0#22#0" expanded="true" />
+                <marker date="1538966658657" expanded="true" signature="402:878" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/sun/network/testxpath.py">
+        <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-596928832/nt.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-328">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-              <folding>
-                <element signature="e#0#22#0" expanded="true" />
-                <marker date="1538896273769" expanded="true" signature="190:292" ph="..." />
-              </folding>
+            <state relative-caret-position="106">
+              <caret line="89" column="4" selection-start-line="89" selection-start-column="4" selection-end-line="89" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-596928832/time.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="106">
+              <caret line="163" column="4" selection-start-line="163" selection-start-column="4" selection-end-line="163" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -149,142 +162,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://C:/Program Files (x86)/python/Lib/urllib/request.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3743">
-              <caret line="221" column="20" selection-start-line="221" selection-start-column="20" selection-end-line="221" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/sun/network/thieba.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="30" column="46" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
-              <folding>
-                <element signature="e#23436#23497#0" expanded="true" />
-                <element signature="e#23556#23577#0" expanded="true" />
-                <element signature="e#24040#24061#0" expanded="true" />
-                <element signature="e#24085#24106#0" expanded="true" />
-                <element signature="e#24423#24443#0" expanded="true" />
-                <element signature="e#24712#24718#1" expanded="true" />
-                <element signature="e#24779#24785#1" expanded="true" />
-                <element signature="e#24841#24847#1" expanded="true" />
-                <element signature="e#25135#25141#1" expanded="true" />
-                <element signature="e#25164#25170#1" expanded="true" />
-                <element signature="e#25193#25199#1" expanded="true" />
-                <element signature="e#25222#25228#1" expanded="true" />
-                <element signature="e#25251#25257#1" expanded="true" />
-                <element signature="e#25280#25286#1" expanded="true" />
-                <element signature="e#25309#25315#1" expanded="true" />
-                <element signature="e#25347#25353#1" expanded="true" />
-                <element signature="e#25376#25382#1" expanded="true" />
-                <element signature="e#25405#25411#1" expanded="true" />
-                <element signature="e#25434#25440#1" expanded="true" />
-                <element signature="e#25463#25469#1" expanded="true" />
-                <element signature="e#25492#25498#1" expanded="true" />
-                <element signature="e#25521#25527#1" expanded="true" />
-                <element signature="e#25559#25565#1" expanded="true" />
-                <element signature="e#25588#25594#1" expanded="true" />
-                <element signature="e#25617#25623#1" expanded="true" />
-                <element signature="e#25646#25652#1" expanded="true" />
-                <element signature="e#25675#25681#1" expanded="true" />
-                <element signature="e#25704#25710#1" expanded="true" />
-                <element signature="e#25733#25739#1" expanded="true" />
-                <element signature="e#25771#25777#1" expanded="true" />
-                <element signature="e#25800#25806#1" expanded="true" />
-                <element signature="e#25829#25835#1" expanded="true" />
-                <element signature="e#25858#25864#1" expanded="true" />
-                <element signature="e#25887#25893#1" expanded="true" />
-                <element signature="e#25916#25922#1" expanded="true" />
-                <element signature="e#25945#25951#1" expanded="true" />
-                <element signature="e#25977#25997#0" expanded="true" />
-                <element signature="e#26016#26022#1" expanded="true" />
-                <element signature="e#26045#26051#1" expanded="true" />
-                <element signature="e#26074#26080#1" expanded="true" />
-                <element signature="e#26103#26109#1" expanded="true" />
-                <element signature="e#26132#26138#1" expanded="true" />
-                <element signature="e#26161#26167#1" expanded="true" />
-                <element signature="e#26190#26196#1" expanded="true" />
-                <element signature="e#26222#26242#0" expanded="true" />
-                <element signature="e#26261#26267#1" expanded="true" />
-                <element signature="e#26290#26296#1" expanded="true" />
-                <element signature="e#26319#26325#1" expanded="true" />
-                <element signature="e#26348#26354#1" expanded="true" />
-                <element signature="e#26377#26383#1" expanded="true" />
-                <element signature="e#26406#26412#1" expanded="true" />
-                <element signature="e#26435#26441#1" expanded="true" />
-                <element signature="e#28366#28387#0" expanded="true" />
-                <element signature="e#28542#28559#0" expanded="true" />
-                <element signature="e#28758#28764#0" expanded="true" />
-                <element signature="e#28764#28770#0" expanded="true" />
-                <element signature="e#32498#32521#0" expanded="true" />
-                <element signature="e#32541#32565#0" expanded="true" />
-                <element signature="e#32776#32797#0" expanded="true" />
-                <element signature="e#33124#33144#0" expanded="true" />
-                <element signature="e#36579#36601#0" expanded="true" />
-                <element signature="e#37202#37242#0" expanded="true" />
-                <element signature="e#37987#38009#0" expanded="true" />
-                <element signature="e#39068#39089#0" expanded="true" />
-                <element signature="e#40008#40031#0" expanded="true" />
-                <element signature="e#42147#42169#0" expanded="true" />
-                <element signature="e#42931#42953#0" expanded="true" />
-                <element signature="e#43276#43297#0" expanded="true" />
-                <element signature="e#43336#43352#0" expanded="true" />
-                <element signature="e#43799#43820#0" expanded="true" />
-                <element signature="e#44739#44763#0" expanded="true" />
-                <element signature="e#46941#46963#0" expanded="true" />
-                <element signature="e#47724#47746#0" expanded="true" />
-                <element signature="e#48003#48024#0" expanded="true" />
-                <element signature="e#48062#48078#0" expanded="true" />
-                <element signature="e#48525#48546#0" expanded="true" />
-                <element signature="e#49465#49489#0" expanded="true" />
-                <element signature="e#52003#52127#0" expanded="true" />
-                <element signature="e#52916#52942#0" expanded="true" />
-                <element signature="e#53068#53090#0" expanded="true" />
-                <element signature="e#53854#53876#0" expanded="true" />
-                <element signature="e#54136#54153#0" expanded="true" />
-                <element signature="e#54188#54208#0" expanded="true" />
-                <element signature="e#54655#54676#0" expanded="true" />
-                <element signature="e#55596#55619#0" expanded="true" />
-                <element signature="e#57649#57679#0" expanded="true" />
-                <element signature="e#57927#57949#0" expanded="true" />
-                <element signature="e#58709#58731#0" expanded="true" />
-                <element signature="e#58991#59008#0" expanded="true" />
-                <element signature="e#59043#59063#0" expanded="true" />
-                <element signature="e#59510#59531#0" expanded="true" />
-                <element signature="e#60467#60490#0" expanded="true" />
-                <element signature="e#62617#62742#0" expanded="true" />
-                <element signature="e#63515#63541#0" expanded="true" />
-                <element signature="e#63667#63689#0" expanded="true" />
-                <element signature="e#64583#64605#0" expanded="true" />
-                <element signature="e#64865#64882#0" expanded="true" />
-                <element signature="e#64917#64937#0" expanded="true" />
-                <element signature="e#65384#65405#0" expanded="true" />
-                <element signature="e#66159#66182#0" expanded="true" />
-                <element signature="e#68261#68283#0" expanded="true" />
-                <element signature="e#69228#69250#0" expanded="true" />
-                <element signature="e#69510#69527#0" expanded="true" />
-                <element signature="e#69562#69582#0" expanded="true" />
-                <element signature="e#70029#70050#0" expanded="true" />
-                <element signature="e#70974#70997#0" expanded="true" />
-                <element signature="e#73049#73071#0" expanded="true" />
-                <element signature="e#74001#74023#0" expanded="true" />
-                <element signature="e#74283#74300#0" expanded="true" />
-                <element signature="e#74335#74355#0" expanded="true" />
-                <element signature="e#74802#74823#0" expanded="true" />
-                <element signature="e#75747#75770#0" expanded="true" />
-                <element signature="e#75901#75922#0" expanded="true" />
-                <element signature="e#80427#80450#0" expanded="true" />
-                <element signature="e#80470#80494#0" expanded="true" />
-                <element signature="e#81835#81841#0" expanded="true" />
-                <element signature="e#81841#81847#0" expanded="true" />
-                <element signature="e#81912#81948#0" expanded="true" />
-                <element signature="e#82140#82146#1" expanded="true" />
-                <element signature="e#82248#82254#1" expanded="true" />
-                <element signature="e#82257#82278#0" expanded="true" />
-                <element signature="e#82870#82892#0" expanded="true" />
-                <element signature="e#83325#83331#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="256">
+              <caret line="256" selection-start-line="256" selection-end-line="256" />
             </state>
           </provider>
         </entry>
@@ -317,6 +196,9 @@
       <find>img class</find>
       <find>tb2.bdstatic.com/</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -369,8 +251,8 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="934" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="933" />
     <option name="y" value="111" />
     <option name="width" value="981" />
     <option name="height" value="1032" />
@@ -387,12 +269,14 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -418,10 +302,19 @@
               <item name="sun" type="462c0819:PsiDirectoryNode" />
               <item name="network" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="importTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="importTest" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="sun" type="462c0819:PsiDirectoryNode" />
+              <item name="network" type="462c0819:PsiDirectoryNode" />
+              <item name="downloads" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -443,7 +336,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.spark">
+  <component name="RunManager" selected="Python.testxpath">
     <configuration name="server" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="importTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -563,8 +456,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.spark" />
         <item itemvalue="Python.testxpath" />
+        <item itemvalue="Python.spark" />
         <item itemvalue="Python.server" />
         <item itemvalue="Python.socketTest" />
         <item itemvalue="Python.simpleModel" />
@@ -594,14 +487,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48285714" visible="true" weight="0.14955537" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48285714" visible="true" weight="0.19078416" />
       <window_info id="Structure" order="1" sideWeight="0.51714283" side_tool="true" weight="0.30800325" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4987874" visible="true" weight="0.38898757" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4987874" visible="true" weight="0.38790035" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39964476" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -640,27 +534,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/iter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/types.pyi">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/file.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/classTes.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -927,24 +800,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/com/sun/network/socketTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="28" column="11" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-596928832/lxml/etree/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7676">
           <caret line="404" column="30" selection-start-line="404" selection-start-column="30" selection-end-line="404" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files (x86)/python/Lib/urllib/request.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3743">
-          <caret line="221" column="20" selection-start-line="221" selection-start-column="20" selection-end-line="221" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -1087,24 +946,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/com/sun/network/testxpath.py">
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-596928832/time.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-328">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="106">
+          <caret line="163" column="4" selection-start-line="163" selection-start-column="4" selection-end-line="163" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-596928832/nt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="89" column="4" selection-start-line="89" selection-start-column="4" selection-end-line="89" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/python/Lib/urllib/request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="256" selection-start-line="256" selection-end-line="256" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/sun/network/img/6.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/sun/network/spark.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
           <folding>
-            <element signature="e#0#22#0" expanded="true" />
-            <marker date="1538896273769" expanded="true" signature="190:292" ph="..." />
+            <element signature="e#0#33#0" expanded="true" />
+            <marker date="1538808742615" expanded="true" signature="345:427" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/com/sun/network/spark.py">
+    <entry file="file://$PROJECT_DIR$/com/sun/network/socketTest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="10" column="42" lean-forward="true" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+        <state relative-caret-position="256">
+          <caret line="28" column="11" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/sun/network/testxpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
           <folding>
-            <element signature="e#0#33#0" expanded="true" />
-            <marker date="1538808742615" expanded="true" signature="345:427" ph="..." />
+            <element signature="e#0#22#0" expanded="true" />
+            <marker date="1538966658657" expanded="true" signature="402:878" ph="..." />
           </folding>
         </state>
       </provider>
